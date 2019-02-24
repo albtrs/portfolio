@@ -177,8 +177,8 @@ class App extends Component {
         <Description>
           <Indent>
             <p>
-              経歴：
-              ・SEとして業務系Webシステムの開発、運用、保守【Java(Seasar2/Spring), Oracle】
+              経歴：<br />
+              ・SEとして業務系Webシステムの開発、運用、保守【Java(Seasar2/Spring), Oracle】<br />
               ・Webエンジニアとして某SNSサイトの開発、保守【VueJS, Ruby on Rails, Docker】
             </p>
             <p>
