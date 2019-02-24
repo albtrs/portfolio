@@ -177,10 +177,12 @@ class App extends Component {
         <Description>
           <Indent>
             <p>
-              業務では基幹系Webシステムの開発、運用、保守を行っていました。技術的にはJava(Seasar2/Spring)、Oracleなど。
+              経歴：
+              ・SEとして業務系Webシステムの開発、運用、保守【Java(Seasar2/Spring), Oracle】
+              ・Webエンジニアとして某SNSサイトの開発、保守【VueJS, Ruby on Rails, Docker】
             </p>
             <p>
-              個人ではJavascript(Node.js)/Python/Ruby on Railsなどを勉強しています。
+              個人ではReactJSやPythonなどを使っています。
             </p>
           </Indent>
         </Description>
